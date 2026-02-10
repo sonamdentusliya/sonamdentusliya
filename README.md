@@ -10,7 +10,6 @@
 - C++
 - Java
 - Python
-- JavaScript
 
 ### 🌐 Web Development
 - HTML
@@ -23,4 +22,4 @@
 
 ---
 ### 📚 Focus Areas  
-DSA • OOP • AI • ML • DBMS • OS • CN
+DSA • OOPS • AI • ML • DBMS • OS • CN
