@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Sonam
 
-<!--
-**sonamdentusliya/sonamdentusliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a **Computer Science (AI & ML) student**  
+💻 Passionate about programming and web development.
+💡 Interested in coding and building efficient solutions.
 
-Here are some ideas to get you started:
+---
+### 👩‍💻 Programming Languages
+- C
+- C++
+- Java
+- Python
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Web Development
+- HTML
+- CSS
+- JavaScript
+
+### ⚙️ Tools
+- Git
+- GitHub
+
+---
+### 📚 Focus Areas  
+DSA • OOP • AI • ML • DBMS • OS • CN
